@@ -95,3 +95,142 @@
    95  mkdir -p P2/{A3/A31,A4/A41/A141}
    96  tree
    97  history >> historial.txt
+    1  sudo su
+    2  apt install tri
+    3  apt install try
+    4  apt install tree
+    5  s
+    6  suddo su-
+    7  sudo su-
+    8  apt install tree
+    9  s
+   10  sudo su -
+   11  pwd
+   12  cd
+   13  pwd
+   14  mkdir
+   15  MKDIR
+   16  man MKDIR
+   17  MKDIR 1
+   18  MKDIR uno
+   19  man MKDIR
+   20  mkdir uno
+   21  ls
+   22  more uno
+   23  mkdir a/{B,C}
+   24  mkdir {B,C}
+   25  ls
+   26  mkdir {B,C}/D
+   27  ls
+   28  cd B
+   29  ls
+   30  cd ..
+   31  cd C
+   32  ls
+   33  tree
+   34  cd
+   35  tree
+   36  mkdir {Public}/{html,datos}/codigo
+   37  mkdir {Public}{html,datos}/codigo
+   38  mkdir {Public}/{html,datos}/codigo
+   39  man mkdir
+   40  mkdir -p Public/{html,datos}/codigo
+   41  tree
+   42  mkdir -p Private/{DATA,PWD}/Img,bin
+   43  tree
+   44  rmdir -p Private
+   45  rmdir --r Private
+   46  rmdir -- Private --r
+   47* 
+   48  tree
+   49  mkdir -p Private/{DATA/{img,bin},pwd/{wd,bck}}
+   50  tree
+   51  rmdir -- Private --r
+   52  tree
+   53  rmdir -- Private --r
+   54  man rmdir
+   55  rmdir -- r Private --
+   56  rm -rf Private
+   57  tree
+   58  mkdir -p Private/{DATA/{img,bin},pwd/{wd,bck}}
+   59  tree
+   60  clear
+   61  treew
+   62  tree
+   63* 
+   64  rm -rf Public
+   65  mkdir -p PRUEBAS
+   66  tree
+   67  cd PRUEBAS
+   68  mkdir -p Private/{DATA/{img,bin},pwd/{wd,bck}}
+   69  mkdir -p Public/{html,datos}/codigo
+   70  tree
+   71  cd..
+   72  tree
+   73  cd ..
+   74  tree
+   75  cd PRUEBAS
+   76  tree
+   77  mkdir -p B1/{FOTOS/{todas,public},DATOS/{A,B}}
+   78  tree
+   79* 
+   80  tree
+   81  rm -rf A1
+   82  tree
+   83  rm -rf B1
+   84  tree
+   85  mkdir -p A1/{Datos/{A,B}
+   86  tree
+   87  rm -rf A1
+   88  mkdir -p A1/Datos/{A,B}
+   89  tree
+   90  mkdir -p C1/Datos/{fotos,Archivos}
+   91  tree
+   92* 
+   93  tree
+   94  rm -rf P2
+   95  mkdir -p P2/{A3/A31,A4/A41/A141}
+   96  tree
+   97  history >> historial.txt
+   98* 
+   99  tree
+  100  mkdir -p P2/{A3/A31,A4/A41/A141}
+  101  tree
+  102  mkdir -p P2/{A2,A3,A4}/A7
+  103  tree
+  104  rm -rf P2
+  105  mkdir -p P2/{A2,A3,A4}/A7
+  106  tree
+  107  mkdir -p P3/{B2,B3}/B22,B23
+  108  tree
+  109  rm -rf P3
+  110  tree
+  111  mkdir -p P3/{B2,B3}/B22/B23
+  112  tree
+  113  rm -rf P3
+  114* 
+  115  tree
+  116  clear
+  117  tree
+  118  cat historial.txt
+  119  clear
+  120  tree
+  121  mkdir -p P4/{A2,A3,A4}/{A6,A7,A8}
+  122  tree
+  123  rm -rf P4
+  124  tree
+  125  mkdir -p P4/{A2,A3,A4}/A6,A7,A8
+  126  tree
+  127  rm -rf P4
+  128  tree
+  129  mkdir -p P4/{A2/A6,A3/A7,A4/A8}
+  130  tree
+  131  mkdir -p P5/{B2/B4,B5},{B3/B6,B7}
+  132  tree
+  133  rm -rf P5
+  134  mkdir -p P5/{B2/B4/B5,B3/B6/B7}
+  135  tree
+  136  rm -rf P5
+  137  mkdir -p P5/{B2/{B4,B5},B3/{B6,B7}}
+  138  tree
+  139  history >> historial.txt
