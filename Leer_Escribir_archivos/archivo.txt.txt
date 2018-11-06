@@ -1,0 +1,2 @@
+archivo de prueba para netbeans. 
+leer y escribir en archivo
